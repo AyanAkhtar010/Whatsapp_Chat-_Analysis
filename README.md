@@ -1,1 +1,4 @@
-# Whatsapp_Chat-_Analysis
+# Whatsapp-Chat-Analysis
+A streamlit app to analyze your whatsapp chats
+
+
